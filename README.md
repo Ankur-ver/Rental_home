@@ -68,13 +68,17 @@ A full-featured Rental House Management System built with **PHP**, **MySQL**, an
   ```
 
 6. **Run the project** in your browser:
+http://localhost/rental
+
 
 **Login Credentials**:
 Username: ankurverma7707@gmail.com
 Password: rootadmin
-https://drive.google.com/drive/folders/1yivLdQhp-nH15_pagCqTcS_KD0ndi42c?usp=sharing
+
+
 **Assets**:
 [Demo Images](https://drive.google.com/drive/folders/1yivLdQhp-nH15_pagCqTcS_KD0ndi42c?usp=sharing)
+
 
 ## 📜 License
 
