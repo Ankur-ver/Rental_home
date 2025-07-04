@@ -42,7 +42,6 @@ header("location:index.php?page=home");
   		<div id="login-right" class="bg-white">
   			<div class="w-100">
 			<h4 class="text-dark text-center"><b><?php echo $_SESSION['system']['name'] ?></b></h4>
-			
   			<div class="card border-0 col-md-8 mx-auto">
   				<div class="card-body">
   					<form id="login-form" >
