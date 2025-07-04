@@ -22,18 +22,18 @@ A full-featured Rental House Management System built with **PHP**, **MySQL**, an
 - 👥 **Tenant Management**
   - Add new tenants
   - View and update tenant details
-  - Handle room assignments
+  - Handle House assignments
 
 - 🧑‍💻 **Staff Management**
   - Create and manage staff users
   - Assign roles dynamically
 
 - 📊 **Dashboard**
-  - Overview of total rooms, tenants, available units
+  - Overview of total house, tenants, available units, category
   - Clean and responsive interface
 
 - 📅 **Booking/Occupancy Tracking**
-  - Track which rooms are occupied/vacant
+  - Track which house are occupied/vacant
   - Easy visual representation
 
 ---
