@@ -11,16 +11,10 @@
 <nav class="navbar navbar-light fixed-top bg-white" style="padding:0;min-height: 3.5rem">
    
    <div class="container-fluid mt-2 mb-2">
-   <div class="row">
+   <div class="row justify-content-between">
       <div class="col-md-2 text-center">
          <a href="index.php" class="logo logo-admin"><img src="assets/img/logo.png" alt="logo" width="220"></a>
       </div>
-      <div class="col-md-8 text-white d-flex justify-content-between">
-         <!-- <large class="text-center text-dark"><b><//?php echo isset($_SESSION['system']['name']) ? $_SESSION['system']['name'] : '' ?></b></large> -->
-          <b id="time" class="ml-lg-5 pl-lg-5 d-none d-md-block text-dark time"></b>
-          <div id="google_translate_element"></div>
-      </div>
-
       <div class="col-md-2">
          <div class="float-right">
             <div class=" dropdown mr-4">
